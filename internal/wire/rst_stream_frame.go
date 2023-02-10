@@ -3,8 +3,8 @@ package wire
 import (
 	"bytes"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
 )
 
 // A RstStreamFrame in QUIC

@@ -9,7 +9,7 @@ import (
 
 	"github.com/aead/chacha20"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 )
 
 type aeadChacha20Poly1305 struct {

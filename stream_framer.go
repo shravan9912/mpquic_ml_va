@@ -4,10 +4,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/internal/flowcontrol"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
-	"github.com/shravan9912/mpquic_ml/internal/wire"
+	"github.com/shravan9912/mpquic_ml_va/internal/flowcontrol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/wire"
 )
 
 type streamFramer struct {

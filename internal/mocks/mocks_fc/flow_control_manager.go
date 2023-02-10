@@ -4,8 +4,8 @@
 package mocks_fc
 
 import (
-	"github.com/shravan9912/mpquic_ml/internal/flowcontrol"
-	protocol "github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/flowcontrol"
+	protocol "github.com/shravan9912/mpquic_ml_va/internal/protocol"
 	gomock "github.com/golang/mock/gomock"
 )
 

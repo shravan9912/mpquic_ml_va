@@ -7,9 +7,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/internal/crypto"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
-	"github.com/shravan9912/mpquic_ml/qerr"
+	"github.com/shravan9912/mpquic_ml_va/internal/crypto"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/qerr"
 )
 
 type serverConfigClient struct {

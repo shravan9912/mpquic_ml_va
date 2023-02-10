@@ -3,7 +3,7 @@ package chrome_test
 import (
 	"fmt"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 
 	. "github.com/onsi/ginkgo"
 )

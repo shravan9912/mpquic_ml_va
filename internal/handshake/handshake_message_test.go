@@ -3,7 +3,7 @@ package handshake
 import (
 	"bytes"
 
-	"github.com/shravan9912/mpquic_ml/qerr"
+	"github.com/shravan9912/mpquic_ml_va/qerr"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

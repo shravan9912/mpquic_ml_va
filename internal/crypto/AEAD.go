@@ -1,6 +1,6 @@
 package crypto
 
-import "github.com/shravan9912/mpquic_ml/internal/protocol"
+import "github.com/shravan9912/mpquic_ml_va/internal/protocol"
 
 // An AEAD implements QUIC's authenticated encryption and associated data
 type AEAD interface {

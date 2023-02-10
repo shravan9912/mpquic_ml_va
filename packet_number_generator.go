@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"math"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 )
 
 // The packetNumberGenerator generates the packet number for the next packet

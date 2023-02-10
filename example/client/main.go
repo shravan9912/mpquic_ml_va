@@ -9,10 +9,10 @@ import (
 	"os"
 	"sync"
 
-	quic "github.com/shravan9912/mpquic_ml"
+	quic "github.com/shravan9912/mpquic_ml_va"
 
-	"github.com/shravan9912/mpquic_ml/h2quic"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/h2quic"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
 )
 
 func main() {

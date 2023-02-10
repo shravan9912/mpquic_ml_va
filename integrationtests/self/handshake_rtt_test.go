@@ -6,12 +6,12 @@ import (
 	"net"
 	"time"
 
-	quic "github.com/shravan9912/mpquic_ml"
-	"github.com/shravan9912/mpquic_ml/integrationtests/tools/proxy"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/testdata"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
-	"github.com/shravan9912/mpquic_ml/qerr"
+	quic "github.com/shravan9912/mpquic_ml_va"
+	"github.com/shravan9912/mpquic_ml_va/integrationtests/tools/proxy"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/testdata"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/qerr"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

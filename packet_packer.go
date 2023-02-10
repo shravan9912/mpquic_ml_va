@@ -5,10 +5,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/shravan9912/mpquic_ml/ackhandler"
-	"github.com/shravan9912/mpquic_ml/internal/handshake"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/wire"
+	"github.com/shravan9912/mpquic_ml_va/ackhandler"
+	"github.com/shravan9912/mpquic_ml_va/internal/handshake"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/wire"
 )
 
 type packedPacket struct {

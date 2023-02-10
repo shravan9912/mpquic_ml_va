@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 	"github.com/lucas-clemente/fnv128a"
 )
 

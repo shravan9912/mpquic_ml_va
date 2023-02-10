@@ -1,10 +1,10 @@
 package ackhandler
 
 import (
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
-	"github.com/shravan9912/mpquic_ml/internal/wire"
-	"github.com/shravan9912/mpquic_ml/qerr"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/wire"
+	"github.com/shravan9912/mpquic_ml_va/qerr"
 )
 
 // The receivedPacketHistory stores if a packet number has already been received.

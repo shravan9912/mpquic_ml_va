@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/shravan9912/mpquic_ml/integrationtests/tools/testserver"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/integrationtests/tools/testserver"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 
 	_ "github.com/lucas-clemente/quic-clients" // download clients
 

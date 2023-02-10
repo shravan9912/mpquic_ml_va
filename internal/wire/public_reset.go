@@ -5,9 +5,9 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/shravan9912/mpquic_ml/internal/handshake"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/handshake"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
 )
 
 // A PublicReset is a PUBLIC_RESET

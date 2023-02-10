@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/internal/crypto"
+	"github.com/shravan9912/mpquic_ml_va/internal/crypto"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

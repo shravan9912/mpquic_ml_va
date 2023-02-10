@@ -19,10 +19,10 @@ import (
 	"strconv"
 	"time"
 
-	quic "github.com/shravan9912/mpquic_ml"
-	"github.com/shravan9912/mpquic_ml/h2quic"
-	"github.com/shravan9912/mpquic_ml/integrationtests/tools/testserver"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	quic "github.com/shravan9912/mpquic_ml_va"
+	"github.com/shravan9912/mpquic_ml_va/h2quic"
+	"github.com/shravan9912/mpquic_ml_va/integrationtests/tools/testserver"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

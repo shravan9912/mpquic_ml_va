@@ -4,7 +4,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 )
 
 // InfDuration is a duration of infinite length

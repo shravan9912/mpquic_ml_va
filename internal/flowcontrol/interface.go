@@ -1,6 +1,6 @@
 package flowcontrol
 
-import "github.com/shravan9912/mpquic_ml/internal/protocol"
+import "github.com/shravan9912/mpquic_ml_va/internal/protocol"
 
 // WindowUpdate provides the data for WindowUpdateFrames.
 type WindowUpdate struct {

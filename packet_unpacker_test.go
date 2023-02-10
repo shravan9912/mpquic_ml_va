@@ -3,10 +3,10 @@ package quic
 import (
 	"bytes"
 
-	"github.com/shravan9912/mpquic_ml/internal/crypto"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/wire"
-	"github.com/shravan9912/mpquic_ml/qerr"
+	"github.com/shravan9912/mpquic_ml_va/internal/crypto"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/wire"
+	"github.com/shravan9912/mpquic_ml_va/qerr"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

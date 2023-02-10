@@ -4,8 +4,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
 )
 
 // This cubic implementation is based on the one found in Chromiums's QUIC

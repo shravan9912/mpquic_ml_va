@@ -18,12 +18,12 @@ import (
 
 	"github.com/shravan9912/gorl/agents"
 	"github.com/shravan9912/gorl/types"
-	"github.com/shravan9912/mpquic_ml/ackhandler"
-	"github.com/shravan9912/mpquic_ml/constants"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
-	"github.com/shravan9912/mpquic_ml/internal/wire"
-	"github.com/shravan9912/mpquic_ml/util"
+	"github.com/shravan9912/mpquic_ml_va/ackhandler"
+	"github.com/shravan9912/mpquic_ml_va/constants"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/wire"
+	"github.com/shravan9912/mpquic_ml_va/util"
 )
 
 const banditAlpha = 0.75

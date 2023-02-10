@@ -3,9 +3,9 @@ package handshake
 import (
 	"fmt"
 
-	"github.com/shravan9912/mpquic_ml/internal/crypto"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/testdata"
+	"github.com/shravan9912/mpquic_ml_va/internal/crypto"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/testdata"
 	"github.com/bifurcation/mint"
 
 	. "github.com/onsi/ginkgo"

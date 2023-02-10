@@ -4,7 +4,7 @@ import (
 	"crypto"
 	"errors"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 	"github.com/bifurcation/mint"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

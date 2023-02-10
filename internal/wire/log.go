@@ -1,6 +1,6 @@
 package wire
 
-import "github.com/shravan9912/mpquic_ml/internal/utils"
+import "github.com/shravan9912/mpquic_ml_va/internal/utils"
 
 // LogFrame logs a frame, either sent or received
 func LogFrame(frame Frame, sent bool) {

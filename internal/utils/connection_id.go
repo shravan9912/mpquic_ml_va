@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 )
 
 // GenerateConnectionID generates a connection ID using cryptographic random

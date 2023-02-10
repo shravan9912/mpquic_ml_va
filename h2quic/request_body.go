@@ -3,7 +3,7 @@ package h2quic
 import (
 	"io"
 
-	quic "github.com/shravan9912/mpquic_ml"
+	quic "github.com/shravan9912/mpquic_ml_va"
 )
 
 type requestBody struct {

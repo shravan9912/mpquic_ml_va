@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/shravan9912/mpquic_ml/internal/handshake"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/handshake"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

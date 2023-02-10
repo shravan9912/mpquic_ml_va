@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"strconv"
 
-	quic "github.com/shravan9912/mpquic_ml"
-	"github.com/shravan9912/mpquic_ml/h2quic"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/testdata"
+	quic "github.com/shravan9912/mpquic_ml_va"
+	"github.com/shravan9912/mpquic_ml_va/h2quic"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/testdata"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"runtime"
 
-	_ "github.com/shravan9912/mpquic_ml/integrationtests/tools/testlog"
-	"github.com/shravan9912/mpquic_ml/integrationtests/tools/testserver"
+	_ "github.com/shravan9912/mpquic_ml_va/integrationtests/tools/testlog"
+	"github.com/shravan9912/mpquic_ml_va/integrationtests/tools/testserver"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

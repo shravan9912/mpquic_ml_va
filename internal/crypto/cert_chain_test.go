@@ -7,7 +7,7 @@ import (
 	"crypto/tls"
 	"reflect"
 
-	"github.com/shravan9912/mpquic_ml/internal/testdata"
+	"github.com/shravan9912/mpquic_ml_va/internal/testdata"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

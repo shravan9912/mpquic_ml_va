@@ -61,7 +61,7 @@ In case of any issue accessing it, please reach out to repository owner
 
 ## Contributing
 
-We are always happy to welcome new contributors! We have a number of self-contained issues that are suitable for first-time contributors, they are tagged with [want-help](https://github.com/shravan9912/mpquic_ml/issues?q=is%3Aopen+is%3Aissue+label%3Awant-help). If you have any questions, please feel free to reach out by opening an issue or leaving a comment.
+We are always happy to welcome new contributors! We have a number of self-contained issues that are suitable for first-time contributors, they are tagged with [want-help](https://github.com/shravan9912/mpquic_ml_va/issues?q=is%3Aopen+is%3Aissue+label%3Awant-help). If you have any questions, please feel free to reach out by opening an issue or leaving a comment.
 
 ## Acknowledgment
 - Thanks to [Qdeconinck](https://github.com/qdeconinck/mpquic_ml) for starting this amazing work

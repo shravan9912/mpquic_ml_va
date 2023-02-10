@@ -10,8 +10,8 @@ import (
 	"github.com/shravan9912/gorl/agents"
 	"github.com/shravan9912/gorl/types"
 
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
 )
 
 func GetAgent(weightsFile string, specFile string) agents.Agent {

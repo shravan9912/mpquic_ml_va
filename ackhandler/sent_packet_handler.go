@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/congestion"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
-	"github.com/shravan9912/mpquic_ml/internal/utils"
-	"github.com/shravan9912/mpquic_ml/internal/wire"
-	"github.com/shravan9912/mpquic_ml/qerr"
+	"github.com/shravan9912/mpquic_ml_va/congestion"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/utils"
+	"github.com/shravan9912/mpquic_ml_va/internal/wire"
+	"github.com/shravan9912/mpquic_ml_va/qerr"
 )
 
 const (

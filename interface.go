@@ -6,8 +6,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/shravan9912/mpquic_ml/internal/handshake"
-	"github.com/shravan9912/mpquic_ml/internal/protocol"
+	"github.com/shravan9912/mpquic_ml_va/internal/handshake"
+	"github.com/shravan9912/mpquic_ml_va/internal/protocol"
 )
 
 // The StreamID is the ID of a QUIC stream.
