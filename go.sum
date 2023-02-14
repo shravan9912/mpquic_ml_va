@@ -1,7 +1,7 @@
 github.com/Workiva/go-datastructures v1.0.53 h1:J6Y/52yX10Xc5JjXmGtWoSSxs3mZnGSaq37xZZh7Yig=
 github.com/Workiva/go-datastructures v1.0.53/go.mod h1:1yZL+zfsztete+ePzZz/Zb1/t5BnDuE2Ya2MMGhzP6A=
-github.com/bifurcation/mint v0.0.0-20210616192047-fd18df995463 h1:NuDsFBmluKEXOfDKFZbDyzb6ey9gGTsbCyvj8oveLA8=
-github.com/bifurcation/mint v0.0.0-20210616192047-fd18df995463/go.mod h1:7hjOhy2FAdPeu39W6XOfgCq45As0yHINm9k3dGIHttA=
+github.com/bifurcation/mint v0.0.0-20171208133358-a6080d464fb5 h1:KdsEvFq5LFgLLgw+qvdTClkF8zme3IdrrboZTy6LMvY=
+github.com/bifurcation/mint v0.0.0-20171208133358-a6080d464fb5/go.mod h1:zVt7zX3K/aDCk9Tj+VM7YymsX66ERvzCJzw8rFCX2JU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
